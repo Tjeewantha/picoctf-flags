@@ -1,2 +1,3 @@
-# picoctf-flags
-This repo contain some write ups  and flags for Picoctf challenges 
+# PICOCTF-FLAGS
+
+https://picoctf.org/
