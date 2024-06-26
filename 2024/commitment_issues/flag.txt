@@ -1,0 +1,12 @@
+git config --global --add safe.directory /media/sf_infected/Picoctf/2024/commitment_issues/drop-in
+git log
+
+commit 3899edb7f3110d613c72ad40083fd8feeef703d0  remove sensitive info
+commit 6603cb4ff0c4ea293798c03a32e0d78d5ab12ca2  create flag
+
+git commit message.txt -m "final_commit"
+git checkout 6603cb4ff0c4ea293798c03a32e0d78d5ab12ca2
+
+cat message.txt
+
+picoCTF{s@n1t1z3_9539be6b}

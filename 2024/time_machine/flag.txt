@@ -1,0 +1,4 @@
+git config --global --add safe.directory /media/sf_infected/Picoctf/2024/time_machine/drop-in
+git log
+
+picoCTF{t1m3m@ch1n3_186cd7d7}
